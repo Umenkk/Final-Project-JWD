@@ -1,0 +1,16 @@
+[
+    {
+        "nama_makanan": "Pisang Goreng ",
+        "satuan": "paket                    ",
+        "harga": "12000",
+        "nama": "MUHAMMAD IRFAN ARYA SYAHPUTRA",
+        "qty": "3"
+    },
+    {
+        "nama_makanan": "Roti Canai ",
+        "satuan": "Bungkus                    ",
+        "harga": "11500",
+        "nama": "Asep Kovalskia",
+        "qty": "5"
+    }
+]
