@@ -1,0 +1,62 @@
+[
+    {
+        "nama_makanan": "Pisang Goreng",
+        "satuan": "paket",
+        "harga": 12000
+    },
+    {
+        "nama_makanan": "Nasi Lemak",
+        "satuan": "bungkus",
+        "harga": 15000
+    },
+    {
+        "nama_makanan": "Roti Jala",
+        "satuan": "Satuan",
+        "harga": 8000
+    },
+    {
+        "nama_makanan": "Roti Goreng",
+        "satuan": "bungkus",
+        "harga": 12000
+    },
+    {
+        "nama_makanan": "Roti Bakar",
+        "satuan": "bungkus",
+        "harga": 14500
+    },
+    {
+        "nama_makanan": "Roti Kukus",
+        "satuan": "bungkus",
+        "harga": 12500
+    },
+    {
+        "nama_makanan": "Soto Ayam",
+        "satuan": "Mangkok",
+        "harga": 8000
+    },
+    {
+        "nama_makanan": "Soto Daging",
+        "satuan": "Mangkok",
+        "harga": 10500
+    },
+    {
+        "nama_makanan": "Soto Campur",
+        "satuan": "Mangkok",
+        "harga": 14500
+    },
+    {
+        "nama_makanan": "Roti Canai",
+        "satuan": "Bungkus",
+        "harga": 11500
+    },
+    {
+        "nama_makanan": "Canai Bom",
+        "satuan": "Bungkus",
+        "harga": "9000"
+    },
+    {
+        "nama_makanan": "Ayam Geprek",
+        "satuan": "Bungkus",
+        "harga": "15000"
+    }
+]
